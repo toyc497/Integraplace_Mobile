@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#BDE038</color>
+    <color name="primaryColorHover">#afd32d</color>
+    <color name="secondaryColor">#10454F</color>
+    <color name="thirdColor">#506266</color>
+    <color name="fontColorPrimary">#000000</color>
+    <color name="fontColorSecondary">#FFFFFFFF</color>
+    <color name="primaryBackground">#FFFFFFFF</color>
+    <color name="secondaryBackground">#f7f7f7</color>
+    <color name="borderColor">#d9dee4</color>
+    <color name="wrongText">#FF6347</color>
+</resources>
